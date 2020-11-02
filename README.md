@@ -8,5 +8,7 @@ integer and perform basic math operations.
 
 ## Operations to be implemented: 
 Fast exponentiation,
-GCD of 2 integers 
+
+GCD of 2 integers
+
 Factorial.
